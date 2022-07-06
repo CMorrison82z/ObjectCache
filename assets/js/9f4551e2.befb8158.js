@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[653],{63891:e=>{e.exports=JSON.parse('{"sourceUrl":"https://github.com/CMorrison82z/ObjectCache/blob/master","baseUrl":"/ObjectCache/","classOrder":["ObjectCache"],"apiCategories":[]}')}}]);
