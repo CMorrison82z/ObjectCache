@@ -3,10 +3,10 @@ classOrder = [
 ]
 
 [docusaurus]
-tagline = "Sample tag"
+tagline = "For all your quick object-creation needs"
 
 [home]
 enabled = true
-includeReadme = true
+includeReadme = false
 
 gitSourceBranch = "primary"
