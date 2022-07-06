@@ -1,0 +1,12 @@
+classOrder = [
+	"ObjectCache"
+]
+
+[docusaurus]
+tagline = "Sample tag"
+
+[home]
+enabled = true
+includeReadme = true
+
+gitSourceBranch = "primary"
